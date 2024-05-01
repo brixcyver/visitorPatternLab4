@@ -11,5 +11,5 @@ Implement a visitor design pattern approach. You must show the different element
 <hr>
 
 ## UML Diagram:
-![Visitor Pattern UML (1)](https://github.com/brixcyver/visitorPatternLab4/assets/142380216/36efb4f4-6b16-40d3-8567-d906df34d734)
+![Visitor Pattern UML](https://github.com/brixcyver/visitorPatternLab4/assets/142380216/d6317c55-3a7b-4cf9-b650-167bb3b9fdcc)
 
